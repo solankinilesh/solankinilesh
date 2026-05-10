@@ -7,4 +7,4 @@ Senior PHP / Symfony Developer based in Gujarat, India.
 - Comfortable with: Symfony Messenger, Doctrine, Typesense, Docker, REST APIs
 - Open to remote roles, worldwide
 
-📫 [LinkedIn](linkedin.com/in/nilesh-solanki-php) · ✉️ solankinilesh899@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/nilesh-solanki-php) · ✉️ solankinilesh899@gmail.com
